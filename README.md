@@ -3,6 +3,7 @@
 
 ### Seção 1: Introdução
 
+
 ### Seção 2: Estilos
 
 ### Seção 3: Referências
@@ -22,5 +23,8 @@
 ### Seção 10: Formatando uma Monografia 
 
 Avaliação do curso:
++ boa didática
++ vídeos curtos
++ boas dicas
 
 
